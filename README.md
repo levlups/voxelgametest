@@ -7,5 +7,6 @@ testing a voxel game concept
 
 
 test video!
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/9p2d-CuVlgc/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDatrxUHQmeb_vRl7hKM9zEq6QCIw)](https://www.youtube.com/watch?v=9p2d-CuVlgc&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=7)
 
-![alt text](https://www.youtube.com/watch?v=9p2d-CuVlgc&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=7)
+
