@@ -7,6 +7,6 @@ testing a voxel game concept
 
 
 test video!
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/9p2d-CuVlgc/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDatrxUHQmeb_vRl7hKM9zEq6QCIw)](https://www.youtube.com/watch?v=9p2d-CuVlgc&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=7)
+[![IMAGE ALT TEXT HERE](https://image.spreadshirtmedia.com/image-server/v1/products/T1007A309PA3623PT17X36Y25D1032784752FS5767/views/1,width=500,height=500,appearanceId=309/main-logo-bigger-unisex-contrast-hoodie.jpg)](https://www.youtube.com/watch?v=9p2d-CuVlgc&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=7)
 
 
